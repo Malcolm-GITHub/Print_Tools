@@ -12,6 +12,10 @@ https://github.com/shpgn/service_tool_canon/releases
 
 Updated by Malcolm Marcus 6/6/25
 
+To download the entire suite of tools simply go to https://github.com/Malcolm-GITHub/Print_Tools.git and click on All_Print_Tools.rar
+then select download on the right side 9arrow facing downwards)
+
+If you want to check individual files in the Repository go to https://github.com/Malcolm-GITHub/Print_Tools/tree/main at this location if you scroll to the bottom you can see the full set of instructions as contained in this readme.md -This will also be included in the main rar file above for download on the repository site.
 _______________________________________________________________________
 
 Procedure for use of Canon service tool - Tested on Canon MB2040 / 2070 / 5040
